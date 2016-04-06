@@ -60,7 +60,6 @@ public class EventsFragment extends RecycleViewCursorFragment<Event> {
         CharSequence[] items = new CharSequence[] {
                 "Show Event Reminders",
                 "Show Event Attendees",
-                "Show Event Instances"
         };
         return items;
     }
